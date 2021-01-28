@@ -1,0 +1,15 @@
+Flask==1.1.1
+gevent==1.4.0
+h5py==2.10.0
+#tensorflow==2.0.1
+Werkzeug==0.16.0
+tensorflow==2.3.0
+opencv-python==4.2.0.34
+numpy==1.18.5
+pillow==7.2.0
+pytest-shutil==1.70
+tqdm==4.47.0
+scipy==1.4.1
+scikit-image==0.17.2
+openpyxl==3.0.5
+
