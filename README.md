@@ -1,7 +1,7 @@
 <h1> ARDD
   - Auto Retinal Disease Detection </h1>
 
-<h3> ARDD is the winning webapp of the 2021 Congressional App Challenge for Virginia's 11th District. </h3>
+<h3> ARDD is the winning webapp of the 2021 Congressional App Challenge for Virginia's 11th District. Created by Thomas Chia, Sreya Devarakonda, and Cindy Wu. </h3>
 
 AARD uses object detection and semantic image classification. The models used are: YOLOv3 and M-NET with Polar Transformation. The webapp is run on the Flask Micro WebFramework and can be run on a WSGI server. 
 
