@@ -1,12 +1,12 @@
-###################################################
-#
-# ARDD website hoster. 
-# Created by Thomas Chia and Cindy Wu
-# Medical Research by Sreya Devarakonda
-# Created for the 2021 Congressional App Challenge
-# Winning "webapp" of Virginia's 11th District
-#
-###################################################
+####################################################
+#                                                  #
+# ARDD website hoster.                             #
+# Created by Thomas Chia and Cindy Wu              #
+# Medical Research by Sreya Devarakonda            #
+# Created for the 2021 Congressional App Challenge #
+# Winning "webapp" of Virginia's 11th District     #
+#                                                  #
+####################################################
 
 import sys, os, glob, re, cv2, random, base64, openpyxl
 import tensorflow as tf

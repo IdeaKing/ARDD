@@ -1,15 +1,15 @@
 ################################################################################
-#
-# ARDD website general utils. 
-# Created by Thomas Chia and Cindy Wu
-# Medical Research by Sreya Devarakonda
-# Created for the 2021 Congressional App Challenge
-# Winning "webapp" of Virginia's 11th District
-#
-# Citations:
-# The overlay image function was inspired by the OpenCV Documentation.
-#   https://docs.opencv.org/trunk/d0/d86/tutorial_py_image_arithmetics.html
-#
+#                                                                              #
+# ARDD website general utils.                                                  #
+# Created by Thomas Chia and Cindy Wu                                          #
+# Medical Research by Sreya Devarakonda                                        #
+# Created for the 2021 Congressional App Challenge                             #
+# Winning "webapp" of Virginia's 11th District                                 #
+#                                                                              #
+# Citations:                                                                   #
+# The overlay image function was inspired by the OpenCV Documentation.         #
+#   https://docs.opencv.org/trunk/d0/d86/tutorial_py_image_arithmetics.html    #
+#                                                                              #
 ################################################################################
 
 import numpy as np
