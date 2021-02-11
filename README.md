@@ -4,7 +4,7 @@
 
 AARD uses object detection and semantic image classification. The models used are: YOLOv3 and M-NET with Polar Transformation. The webapp is run on the Flask Micro WebFramework and can be run on a WSGI server. 
 
-## How does ARDD work? ##
+<h2> How does ARDD work? </h2>
 
 
 ARDD can be separated into two stages: the object detection stage and the segmentation stage. The object detection stage will firstly detect the lesions and conditions within the retina. Then the segmentation stage will locate the optic disc region and segment the optic disc.
