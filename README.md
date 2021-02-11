@@ -6,4 +6,6 @@ AARD uses object detection and semantic image classification. The models used ar
 
 <h2> How does ARDD work?
 
+### ARDD can be separated into two stages: the object detection stage and the segmentation stage. The object detection stage will firstly detect the lesions and conditions within the retina. Then the segmentation stage will locate the optic disc region and segment the optic disc.
+
 More info to be posted soon.
