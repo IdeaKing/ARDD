@@ -1,4 +1,5 @@
-<h1> AARD - Auto Retinal Disease Detection </h1>
+<h1> ARDD
+  - Auto Retinal Disease Detection </h1>
 
 <h3> ARDD is the winning webapp of the 2021 Congressional App Challenge for Virginia's 11th District. </h3>
 
@@ -26,7 +27,9 @@ Lastly the output combines Stage 1 and Stage 2.
 
 ![Image of output.](https://github.com/IdeaKing/aard/blob/main/uploads/output/5999712.jpg)
 
-<h2> Installing and Running AA
+<h2> Installing and Running ARDD </h2>
+
+1. `<addr>` pip install -r requirements.txt `<addr>`
 
 
 
