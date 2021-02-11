@@ -1,6 +1,6 @@
 <h1> AARD - Auto Retinal Disease Detection </h1>
 
-<h3> _ARDD is the winning webapp of the 2021 Congressional App Challenge for Virginia's 11th District._ </h3>
+<h3> ARDD is the winning webapp of the 2021 Congressional App Challenge for Virginia's 11th District. </h3>
 
 AARD uses object detection and semantic image classification. The models used are: YOLOv3 and M-NET with Polar Transformation. The webapp is run on the Flask Micro WebFramework and can be run on a WSGI server. 
 
@@ -25,6 +25,8 @@ Then the image is run on the segmentation model, returning something like this:
 Lastly the output combines Stage 1 and Stage 2.
 
 ![Image of output.](https://github.com/IdeaKing/aard/blob/main/uploads/output/5999712.jpg)
+
+<h2> Installing and Running AA
 
 
 
