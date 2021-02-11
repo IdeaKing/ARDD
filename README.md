@@ -29,8 +29,10 @@ Lastly the output combines Stage 1 and Stage 2.
 
 <h2> Installing and Running ARDD </h2>
 
-1. `<addr>` pip install -r requirements.txt `<addr>`
+1. ` pip install -r requirements.txt `
+2. ` python app.py `
 
+*You may have to CD into the correct directory and enter the correct virtual environment/conda environment.*
 
 
 More info to be posted soon.
