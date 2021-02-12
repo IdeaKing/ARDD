@@ -35,4 +35,4 @@ Lastly the output combines Stage 1 and Stage 2.
 *You may have to CD into the correct directory and enter the correct virtual environment/conda environment.*
 
 
-More info to be posted soon.
+More info to be posted soon. Please submit an issue if you have any question(s), I will do my best to answer them.
