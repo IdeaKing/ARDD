@@ -4,7 +4,7 @@
 # Created by Thomas Chia and Cindy Wu              #
 # Medical Research by Sreya Devarakonda            #
 # Created for the 2021 Congressional App Challenge #
-# Winning "webapp" of Virginia's 11th District     #
+# Winning "webapp" of Virginia's 10th District     #
 #                                                  #
 ####################################################
 
